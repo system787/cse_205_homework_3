@@ -1,3 +1,5 @@
+// CLASS:   H03_35 (H03_35.java)
+// AUTHOR:  Vincent Hoang, vnhoang@asu.edu
 public class H03_35 {
 
     public H03_35() {}

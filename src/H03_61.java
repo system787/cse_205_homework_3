@@ -1,3 +1,5 @@
+// CLASS:   H03_61 (H03_61.java)
+// AUTHOR:  Vincent Hoang, vnhoang@asu.edu
 public class H03_61 {
 
     public static void main(String[] args) {

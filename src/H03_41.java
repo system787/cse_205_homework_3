@@ -1,3 +1,5 @@
+// CLASS:   H03_41 (H03_41.java)
+// AUTHOR:  Vincent Hoang, vnhoang@asu.edu
 import java.util.ArrayList;
 
 public class H03_41 {

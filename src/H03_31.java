@@ -1,8 +1,8 @@
+// CLASS:   H03_31 (H03_31.java)
+// AUTHOR:  Vincent Hoang, vnhoang@asu.edu
 public class H03_31 {
 
-    public H03_31() {
-
-    }
+    public H03_31() {}
 
     public int sum1toN(int n) {
 
